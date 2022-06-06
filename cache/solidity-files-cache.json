@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/riddhish/DAPP/poll-dapp-next/contracts/MarketSentiment.sol": {
+      "lastModificationDate": 1654163978482,
+      "contentHash": "012a01f3376e0f9758261aa17b09442d",
+      "sourceName": "contracts/MarketSentiment.sol",
+      "solcConfig": {
+        "version": "0.8.7",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.7"
+      ],
+      "artifacts": [
+        "MarketSentiment"
+      ]
+    }
+  }
+}
